@@ -2,7 +2,6 @@
 public class CollegeTuitionCalculator {
 
 	public static void main(String[] args) {
-		// assuming UD is the university
 		// the average tuition increase is 2.9 percent at public universities
 		double Year1 = 12342;
 		double Year2 = Year1 * 1.029;
